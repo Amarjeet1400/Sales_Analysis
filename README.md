@@ -1,6 +1,4 @@
-Here’s a draft README file for your GitHub upload:
 
----
 
 # Hotel Hospitality Analytics Dashboard - Atilq
 
